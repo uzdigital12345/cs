@@ -1,0 +1,11 @@
+/home/khamidullokh/CS projects/BinaryTree/bin/Debug/netcoreapp2.2/BinaryTree.deps.json
+/home/khamidullokh/CS projects/BinaryTree/bin/Debug/netcoreapp2.2/BinaryTree.runtimeconfig.json
+/home/khamidullokh/CS projects/BinaryTree/bin/Debug/netcoreapp2.2/BinaryTree.runtimeconfig.dev.json
+/home/khamidullokh/CS projects/BinaryTree/bin/Debug/netcoreapp2.2/BinaryTree.dll
+/home/khamidullokh/CS projects/BinaryTree/bin/Debug/netcoreapp2.2/BinaryTree.pdb
+/home/khamidullokh/CS projects/BinaryTree/obj/Debug/netcoreapp2.2/BinaryTree.csprojAssemblyReference.cache
+/home/khamidullokh/CS projects/BinaryTree/obj/Debug/netcoreapp2.2/BinaryTree.csproj.CoreCompileInputs.cache
+/home/khamidullokh/CS projects/BinaryTree/obj/Debug/netcoreapp2.2/BinaryTree.AssemblyInfoInputs.cache
+/home/khamidullokh/CS projects/BinaryTree/obj/Debug/netcoreapp2.2/BinaryTree.AssemblyInfo.cs
+/home/khamidullokh/CS projects/BinaryTree/obj/Debug/netcoreapp2.2/BinaryTree.dll
+/home/khamidullokh/CS projects/BinaryTree/obj/Debug/netcoreapp2.2/BinaryTree.pdb

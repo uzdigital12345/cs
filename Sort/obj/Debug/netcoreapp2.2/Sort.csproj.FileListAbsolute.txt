@@ -1,0 +1,11 @@
+/home/khamidullokh/C# projects/Sort/bin/Debug/netcoreapp2.2/Sort.deps.json
+/home/khamidullokh/C# projects/Sort/bin/Debug/netcoreapp2.2/Sort.runtimeconfig.json
+/home/khamidullokh/C# projects/Sort/bin/Debug/netcoreapp2.2/Sort.runtimeconfig.dev.json
+/home/khamidullokh/C# projects/Sort/bin/Debug/netcoreapp2.2/Sort.dll
+/home/khamidullokh/C# projects/Sort/bin/Debug/netcoreapp2.2/Sort.pdb
+/home/khamidullokh/C# projects/Sort/obj/Debug/netcoreapp2.2/Sort.csprojAssemblyReference.cache
+/home/khamidullokh/C# projects/Sort/obj/Debug/netcoreapp2.2/Sort.csproj.CoreCompileInputs.cache
+/home/khamidullokh/C# projects/Sort/obj/Debug/netcoreapp2.2/Sort.AssemblyInfoInputs.cache
+/home/khamidullokh/C# projects/Sort/obj/Debug/netcoreapp2.2/Sort.AssemblyInfo.cs
+/home/khamidullokh/C# projects/Sort/obj/Debug/netcoreapp2.2/Sort.dll
+/home/khamidullokh/C# projects/Sort/obj/Debug/netcoreapp2.2/Sort.pdb
